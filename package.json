@@ -1,0 +1,18 @@
+{
+  "name": "jasper1229-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "Jasper"
+  ],
+  "author": "Jasper1229",
+  "license": "",
+  "engines": {
+    "node": "16.x"
+  }
+}
