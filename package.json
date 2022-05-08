@@ -11,8 +11,5 @@
     "Jasper"
   ],
   "author": "Jasper1229",
-  "license": "",
-  "engines": {
-    "node": "16.x"
-  }
+  "license": ""
 }
